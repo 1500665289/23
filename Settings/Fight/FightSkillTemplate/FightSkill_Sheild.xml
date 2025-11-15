@@ -1,0 +1,47 @@
+<FightSkills>
+	<List>
+		<Skill Name="SheildSkill_GongBeiMing_1">
+			<DisplayName>北冥神盾</DisplayName>
+			<IsTemplate>0</IsTemplate>
+			<Kind>Sheild</Kind>
+			<ShowInUI>1</ShowInUI>
+			<SingTime>0.5</SingTime>
+			<CD>15</CD>
+			<LingCost>100</LingCost>
+			<SingAni>assemble</SingAni>
+			<CastAni>LJjineng10</CastAni>
+			<Value>100</Value>
+			<Value2>150</Value2>
+			<TargetCamp>Friendly</TargetCamp>
+
+			<Shape>Single</Shape>
+			<SelectType>Self</SelectType>
+			<HitEffect>60</HitEffect>
+		</Skill>
+		<Skill Name="DamageSkill_JingXi">
+			<DisplayName>元磁灭绝神光</DisplayName>
+			<IsTemplate>0</IsTemplate>
+			<Kind>Damage</Kind>
+			<Element>None</Element>
+			<ShowInUI>1</ShowInUI>
+			<SingTime>1</SingTime>
+			<CD>10</CD>
+			<LingCost>800</LingCost>
+			<SingAni>assemble</SingAni>
+			<CastAni>LJjineng4</CastAni>
+			<Value>400</Value>
+			<TargetCamp>Enemy</TargetCamp>
+
+			<Shape>Missile</Shape>
+			<SelectType>Target</SelectType>
+			<MissileEffect>26</MissileEffect>
+			<HitEffect>61</HitEffect>
+			<Missile>				<!--弹道数据，贝塞尔曲线的四个参数-->
+				<p1>0</p1>
+				<p2>0</p2>
+				<p3>0</p3>
+				<p4>0</p4>
+			</Missile>
+		</Skill>
+	</List>
+</FightSkills>

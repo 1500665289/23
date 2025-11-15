@@ -1,0 +1,32 @@
+<ModifierDefs><List>
+	<Modifier Name="GongBeiMing_LvUpEsoterica_1" Type="Normal">
+		<DisplayName>GongBeiMing_LvUpEsoterica_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Skills>
+			<li Name="Fabao" LevelOver="10"/>
+		</Skills>
+	</Modifier> 
+	
+	
+	<Modifier Name="GongBeiMing_LvUpEsoterica_10" Type="Normal">
+		<DisplayName>GongBeiMing_LvUpEsoterica_10</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="12"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongBeiMing_LvUpEsoterica_11" Type="Normal">
+		<DisplayName>GongBeiMing_LvUpEsoterica_11</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoNum" AddV="5"/>
+		</Properties>
+	</Modifier> 
+</List></ModifierDefs>

@@ -1,0 +1,44 @@
+<Magics><List>
+	<Magic Name="ClosedDoor_GongBeiMing">
+		<DisplayName>鲸息诀</DisplayName>
+		<Desc>模仿巨鲸炼化精元</Desc>
+		<Icon>res\Sprs\ui\icon_ruding01</Icon>
+		<Param1>10000</Param1><!--修炼速度加成-->
+		<Param2>0.001</Param2><!--寿命消耗/秒-->
+		<Param3>10000</Param3><!--精元消耗倍率-->
+		<CostLing>0</CostLing>
+		<CostAge>0</CostAge>
+		<Penalty>0</Penalty>
+		<ScoreBase>0</ScoreBase>
+		<ScoreGood>0</ScoreGood>
+		<ScoreBad>0</ScoreBad>
+		<CMD>ClosedDoor</CMD>
+		<SelectType>CloseDoor</SelectType>
+	</Magic>
+	<Magic Name="BeiMingJingTun" Type="Class">
+		<DisplayName>鲸吞</DisplayName>
+		<Desc>炼化一名弥留，死亡角色的血肉，转化为自身精元。</Desc>
+		<Icon>res\Sprs\ui\icon_tongxiu01</Icon>
+		<TargetDesc>请选择已死亡或弥留的角色</TargetDesc>	
+		<Param1>2</Param1><!--消耗时间-->
+		<Param2>9000</Param2><!--获得精元-->
+		<SelectMode>Single</SelectMode>
+		<SelectTarget>Npc</SelectTarget>
+		<Ani>shentong6</Ani>
+		<ClassName>Magic_BeiMingJingTun</ClassName>
+	</Magic>
+	<Magic Name="BeiMingJingXi" Type="Class">
+		<DisplayName>鲸吸</DisplayName>
+		<Desc>吸取一名角色的灵力，转化为自身灵力，并提升灵力上限。</Desc>
+		<Icon>res\Sprs\ui\icon_tongxiu01</Icon>
+		<TargetDesc>请选择活物</TargetDesc>
+		<sParam1>ModifierBeiMingJingXi</sParam1>
+		<Param1>2</Param1><!--消耗时间-->
+		<SelectMode>Single</SelectMode>
+		<SelectTarget>Npc</SelectTarget>
+		<Ani>shentong6</Ani>
+		<ClassName>Magic_BeiMingJingXi</ClassName>
+	</Magic>
+
+	
+</List></Magics>

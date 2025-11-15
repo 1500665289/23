@@ -1,0 +1,77 @@
+﻿<Gongs>
+	<List>
+		<Gong Name="Gong_BeiMing_Jin">
+			<DisplayName>北冥神功</DisplayName>
+			<Desc>野狗道人韩子卢昔年于北海悟道所创。</Desc>
+			<SelectDesc>是否要选择修习此功法？</SelectDesc>
+			<FiveBaseNeed>-1,-1,-1,-1, -1</FiveBaseNeed>
+			<SkillSetName></SkillSetName>
+			<ElementKind>Jin</ElementKind>
+			<Skill>				<!--chumo jiangdao guanding ciqi kaiguang cuiti bihu-->
+				<li>chumo</li>
+				<li>ciqi</li>
+				<li>bihu</li>
+			</Skill>
+			<Stages>
+				<Stage Name="Stage1" Level="2">
+					<DisplayName>观鱼</DisplayName>
+					<Desc></Desc>
+					<Value>1000</Value>
+					<Necks>
+						<Neck Location="1" Kind="Chance">
+							<DisplayName>观鱼</DisplayName>
+							<Desc>[color=#D06508]\n突破如水到渠成。[/color]</Desc>
+							<SuccessChange>1</SuccessChange>
+							<CostTime>100</CostTime>
+							<SuccessChange>Perception_1_1_10</SuccessChange>
+							<FailedChangeAdd>Perception_1_5_25</FailedChangeAdd>
+						</Neck>
+					</Necks>
+				</Stage>
+
+				<Stage Name="Stage2" Level="6">
+					<DisplayName>化鲲</DisplayName>
+					<Desc></Desc>
+					<Value>2400</Value>
+					<Necks>
+						<Neck Location="1" Kind="Gold">
+							<DisplayName>化鲲</DisplayName>
+							<Desc></Desc>
+							<AddModifier>Gong_Gold</AddModifier>
+						</Neck>
+					</Necks>
+				</Stage>
+				<Stage Name="Stage3" Level="8">
+					<DisplayName>化鹏</DisplayName>
+					<Desc></Desc>
+					<Value>16000</Value>
+					<Necks>
+						<Neck Location="1" Kind="Chance">
+							<DisplayName>化鹏</DisplayName>
+							<Desc>[color=#D06508]\n突破如水到渠成。[/color]</Desc>
+							<SuccessChange>1</SuccessChange>
+							<CostTime>150</CostTime>
+							<SuccessChange>Perception_1_1_10</SuccessChange>
+							<FailedChangeAdd>Perception_1_5_25</FailedChangeAdd>
+							<AddModifier>Gong_Qi</AddModifier>
+						</Neck>
+					</Necks>
+				</Stage>
+				<Stage Name="Stage6" Level="12">
+					<DisplayName>北冥</DisplayName>
+					<Desc></Desc>
+					<Value>4840000</Value>
+					<Necks>
+						<Neck Location="1" Kind="God">
+							<DisplayName>北冥</DisplayName>
+							<Desc>褪去凡胎，飞升成仙。</Desc>
+							<ThunderValue>590000</ThunderValue>
+							<NeckCountdown>3000</NeckCountdown>
+							<AddModifier>Gong_Thunder3</AddModifier>
+						</Neck>
+					</Necks>
+				</Stage>
+			</Stages>
+		</Gong>
+	</List>
+</Gongs>

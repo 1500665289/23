@@ -1,0 +1,18 @@
+﻿<Esotericas>
+	<List>
+		<Esoterica Name="FightSkillEsoterica_GongBeiMing_1">
+			<DisplayName>北冥神盾</DisplayName>
+			<Icon>res/Sprs/ui/icon_shufa</Icon>
+			<StarLevel>0</StarLevel>
+			<Difficulty>3</Difficulty>
+			<Desc>身化北冥，增强己方灵气护盾效果，并快速回复灵气。</Desc>
+			<GLevel>Dan1</GLevel>
+			<Element>Jin</Element>
+			<Type>Skill</Type>
+			<EffectDesc>[size=10][color=#D06508]习得秘术：北冥神盾[/color][/size]</EffectDesc>
+			<Skills>
+				<li>SheildSkill_GongBeiMing_1</li>
+			</Skills>
+		</Esoterica>
+	</List>
+</Esotericas>

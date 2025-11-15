@@ -1,0 +1,309 @@
+﻿<SkillTree><List>	
+	<Node Name="GongBeiMing_a6" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_Esoterica_1</Esoterica>
+		<DisplayName>观鱼法</DisplayName>
+		<Level>Qi</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="GongBeiMing_a11" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_Esoterica_13</Esoterica>
+		<DisplayName>心眼</DisplayName>
+		<Level>Qi</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongBeiMing_b6" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_Esoterica_2</Esoterica>
+		<DisplayName>游鱼剑</DisplayName>
+		<Level>Dan1</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>GongBeiMing_a6</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongBeiMing_b11" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_Esoterica_11</Esoterica>
+		<DisplayName>北冥心法</DisplayName>
+		<Level>Dan1</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>GongBeiMing_a11</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongBeiMing_c0" Gong="Gong_BeiMing_Jin">
+		<Esoterica>Magic_ClosedDoor_BeiMing</Esoterica>
+		<DisplayName>鲸息诀</DisplayName>
+		<Level>Dan1</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongBeiMing_c1" Gong="Gong_BeiMing_Jin">
+		<Esoterica>Magic_BeiMingJingTun</Esoterica>
+		<DisplayName>鲸吞</DisplayName>
+		<Level>Dan1</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="GongBeiMing_c2" Gong="Gong_BeiMing_Jin">
+		<Esoterica>Magic_BeiMingJingXi</Esoterica>
+		<DisplayName>鲸吸</DisplayName>
+		<Level>Dan1</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="GongBeiMing_c6" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_Esoterica_6</Esoterica>
+		<DisplayName>北冥剑诀</DisplayName>
+		<Level>Dan2</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<Layers>
+			<li>GongBeiMing_c6_1</li>
+			<li>GongBeiMing_c6_2</li>
+		</Layers>
+		<PreUnit>
+			<li>GongBeiMing_b6</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongBeiMing_c6_1" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_LvUpEsoterica_4</Esoterica>
+		<DisplayName>北冥剑意</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongBeiMing_c6_2" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_LvUpEsoterica_15</Esoterica>
+		<DisplayName>秘宝：北冥心剑</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongBeiMing_c11" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_Esoterica_12</Esoterica>
+		<DisplayName>化鹏诀</DisplayName>
+		<Level>Dan2</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>GongBeiMing_b11</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+
+	<Node Name="GongBeiMing_d11" Gong="Gong_BeiMing_Jin">
+		<Esoterica>FightSkillEsoterica_GongBeiMing_1</Esoterica>
+		<DisplayName>北冥神盾</DisplayName>
+		<Level>God</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<li>GongBeiMing_c11</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongBeiMing_d6" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_Esoterica_10</Esoterica>
+		<DisplayName>北冥悟剑</DisplayName>
+		<Level>God</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongBeiMing_d6_1</li>
+			<li>GongBeiMing_d6_2</li>
+		</Layers>
+		<PreUnit>
+			<li>GongBeiMing_c6</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongBeiMing_d6_1" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_LvUpEsoterica_10</Esoterica>
+		<DisplayName>北冥悟剑</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	
+	<Node Name="GongBeiMing_d6_2" Gong="Gong_BeiMing_Jin">
+		<Esoterica>GongBeiMing_LvUpEsoterica_11</Esoterica>
+		<DisplayName>北冥悟剑</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	
+	
+	
+	<Node Name="GongBeiMing_e4" Gong="Gong_BeiMing_Jin">
+		<Esoterica>God2_Dan</Esoterica>
+		<DisplayName>天道神丹</DisplayName>
+		<Level>God2</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Medicine" Level="20"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongBeiMing_e8" Gong="Gong_BeiMing_Jin">
+		<Esoterica>God2_Fabao</Esoterica>
+		<DisplayName>天道神器</DisplayName>
+		<Level>God2</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="20"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+</List></SkillTree> 

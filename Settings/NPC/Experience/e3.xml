@@ -1,0 +1,13 @@
+﻿<Experiences>
+	<List>
+		<Experience Name="ExperiencesBeiMing" Group="G1">
+			<DisplayName>北冥传承</DisplayName>
+			<Desc>你自入门起途径北海，遇一道人，自称野狗道人，传汝无上仙法《北冥神功》。\n\n\n[size=10]解锁功法：[color=#D06508]《北冥神功》[/color][/size]</Desc>
+			<Point>0</Point>
+			<RaceKind>Human</RaceKind>
+			<Gongs>
+				<li>Gong_BeiMing_Jin</li>
+			</Gongs>
+		</Experience>
+	</List>
+</Experiences>

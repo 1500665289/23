@@ -1,0 +1,63 @@
+﻿<Esotericas>
+	<List>
+		<Esoterica Name="GongBeiMing_LvUpEsoterica_4">
+			<DisplayName>北冥剑意</DisplayName>
+			<Hide>2</Hide>
+			<Icon>res/Sprs/ui/icon_yujian</Icon>
+			<StarLevel>1</StarLevel>
+			<Difficulty>8</Difficulty>
+			<Desc></Desc>
+			<GLevel>God</GLevel>
+			<Element>Jin</Element>
+			<Type>Fabao</Type>
+			<EffectDesc>[size=10][color=#D06508]领悟御剑真意，突破御剑技能极限10级。[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_LvUpEsoterica_1</Modifier>
+		</Esoterica>
+
+
+		<Esoterica Name="GongBeiMing_LvUpEsoterica_10">
+			<DisplayName>北冥悟剑-扶摇剑</DisplayName>
+			<Hide>2</Hide>
+			<Icon>res/Sprs/ui/icon_yujian</Icon>
+			<StarLevel>2</StarLevel>
+			<Difficulty>9</Difficulty>
+			<Desc>北冥神功最高秘诀，威力绝伦。</Desc>
+			<GLevel>God</GLevel>
+			<Element>Jin</Element>
+			<Type>Fabao</Type>
+			<EffectDesc>[size=10][color=#D06508]大幅提高法宝威力\n习得秘术：扶摇剑煞[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_LvUpEsoterica_10</Modifier>
+			<Skills>
+				<li>FabaoSkill_GongBeiMing_1</li>
+			</Skills>
+		</Esoterica>
+
+		<Esoterica Name="GongBeiMing_LvUpEsoterica_11">
+			<DisplayName>北冥悟剑-分光剑</DisplayName>
+			<Hide>2</Hide>
+			<Icon>res/Sprs/ui/icon_yujian</Icon>
+			<StarLevel>2</StarLevel>
+			<Difficulty>9</Difficulty>
+			<Desc>北冥神功最高秘诀，威力绝伦。</Desc>
+			<GLevel>God</GLevel>
+			<Element>Jin</Element>
+			<Type>Fabao</Type>
+			<EffectDesc>[size=10][color=#D06508]法宝数量加五[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_LvUpEsoterica_11</Modifier>
+		</Esoterica>
+
+		<Esoterica Name="GongBeiMing_LvUpEsoterica_15">
+			<DisplayName>秘宝：北冥心剑</DisplayName>
+			<Hide>2</Hide>
+			<StarLevel>1</StarLevel>
+			<Difficulty>4</Difficulty>
+			<Desc>记录秘宝：北冥心剑的炼制方法。</Desc>
+			<Element>None</Element>
+			<Type>None</Type>
+			<EffectDesc>[size=10][color=#D06508]习得 秘宝：\n北冥心剑[/color][/size]</EffectDesc>
+			<Fabaos>
+				<li>MiBaoFormula_BeiMing</li>
+			</Fabaos>
+		</Esoterica>
+	</List>
+</Esotericas>

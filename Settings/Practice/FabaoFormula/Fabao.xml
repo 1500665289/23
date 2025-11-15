@@ -1,0 +1,10 @@
+<FabaoFormulas><List>
+	<!-- 北冥心剑-->
+	<Fabao Name="MiBaoFormula_BeiMing">
+		<Normal>0</Normal>
+		<ItemName>Item_MiBao_BeiMing</ItemName>
+		<Level>20</Level>
+		<SuccessRate>-1</SuccessRate>
+		<Count>1</Count>
+	</Fabao>
+</List></FabaoFormulas>

@@ -1,0 +1,39 @@
+﻿<Esotericas><List>
+	<Esoterica Name="Magic_ClosedDoor_BeiMing">
+		<DisplayName>鲸息诀</DisplayName>
+		<Icon>res/Sprs/ui/icon_ruding01</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>4</Difficulty>
+		<!--<Desc>进入定境之中修炼，会快速消耗寿命和精元。可以快速获得修为，并提升灵气最大值。</Desc>-->
+		<GLevel>Dan1</GLevel>
+		<Element>None</Element>
+		<EffectDesc>[size=10][color=#D06508]习得神通：鲸息诀\n模仿巨鲸炼化精元。[/color][/size]</EffectDesc>
+		<Magics>
+			<li>ClosedDoor_GongBeiMing</li>
+		</Magics>
+	</Esoterica>
+	<Esoterica Name="Magic_BeiMingJingTun">
+		<DisplayName>鲸吞</DisplayName>
+		<Icon>res/Sprs/ui/icon_tianyao01</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>4</Difficulty>
+		<GLevel>Dan1</GLevel>
+		<Element>None</Element>
+		<EffectDesc>[size=10][color=#D06508]习得神通：鲸吞\n炼化一名弥留，死亡角色的血肉，转化为自身精元。[/color][/size]</EffectDesc>
+		<Magics>
+			<li>BeiMingJingTun</li>
+		</Magics>
+	</Esoterica>
+	<Esoterica Name="Magic_BeiMingJingXi">
+		<DisplayName>鲸吸</DisplayName>
+		<Icon>res/Sprs/ui/icon_tianyao01</Icon>
+		<StarLevel>1</StarLevel>
+		<Difficulty>4</Difficulty>
+		<GLevel>Dan1</GLevel>
+		<Element>None</Element>
+		<EffectDesc>[size=10][color=#D06508]习得神通：鲸吸\n吸取一名角色的灵力，转化为自身灵力，并提升灵力上限。[/color][/size]</EffectDesc>
+		<Magics>
+			<li>BeiMingJingXi</li>
+		</Magics>
+	</Esoterica>
+</List></Esotericas>

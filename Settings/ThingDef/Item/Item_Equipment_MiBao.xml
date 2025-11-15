@@ -1,0 +1,35 @@
+<ThingDefs>
+	<List>
+		<ThingDef Type="Item" Name="Item_MiBao_BeiMing" Parent="MiBaoBase">
+			<ThingName>北冥心剑</ThingName>
+			<TexPath>res\Sprs\object_zhengfatianxia\object_PTjian01</TexPath>
+			<FabaoTexPath>res\Sprs\object_zhengfatianxia\object_MBjian01</FabaoTexPath>
+			<Desc>观想北海，以心神沟通北海之灵凝结而成，能斩落敌方法宝，亦能分化剑光，发动攻击，还能将造成伤害的一部分转为法宝自身的灵气</Desc>
+			<ElementKind>Jin</ElementKind>
+			<Item Kind="Equipment">
+				<PhysicalLables>
+					<li>Sharp</li>
+					<li>GreatThing_Attack</li>
+					<li>Hard2</li>
+				</PhysicalLables>
+				<BeMade>
+					<CostItems>
+					</CostItems>
+				</BeMade>
+				<Fabao>
+					<ActiveCondition>
+						<Condition eventid = "KillCount" des = "携带秘宝胚胎击杀1个生灵，血祭胚胎" needcount = "1" />
+					</ActiveCondition>
+					<SpecialAbility>
+						<Ability Kind="HitSameFabaoAndEffect" nParam1="2" nParam2="1" Desc="每攻击同一个法宝2次，可使其失效，持续时间与其品阶有关。"/>
+						<Ability Kind="HitCountAddMirror" nParam1="1" nParam2="1" fParam1="30" Desc="每攻击1次，便产生1道剑光分化，持续30秒"/>
+						<Ability Kind="HitAddRecovery" fParam1="0.5"  Desc="造成伤害的50%会补充为法宝自身的灵气。"/>
+					</SpecialAbility>
+				</Fabao>
+			</Item>
+			<Element>
+				<Kind>Jin</Kind>
+			</Element>
+		</ThingDef>
+	</List>
+</ThingDefs>

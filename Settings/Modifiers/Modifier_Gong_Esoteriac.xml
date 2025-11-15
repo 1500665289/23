@@ -1,0 +1,150 @@
+<ModifierDefs><List>
+	<Modifier Name="ModifierBeiMingJingXi" Type="Normal">
+		<DisplayName>鲸吸转化灵气</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcLingMaxValue" AddV="10000"/>
+			<li Name="LingAbsorbSpeed" BAddV="10"/>
+		</Properties>
+	</Modifier> 
+	<!--==================================================-->
+	<Modifier Name="GongBeiMing_Esoterica_1" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<BaseFive>0,0,0,10,0</BaseFive>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="100"/>
+			<li Name="BaseEmotionAddV" AddV="100"/>
+		</Properties>
+	</Modifier> 
+	<Modifier Name="GongBeiMing_Esoterica_2" Type="Normal">
+		<DisplayName>游鱼剑</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<BaseFive>0,0,0,0,0</BaseFive>
+		<Properties>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddV="10"/>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddV="10"/>
+			<li Name="NpcFight_FabaoTrailingLengthAddP" AddV="5"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongBeiMing_Esoterica_3" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="4"/>
+		</Properties>
+	</Modifier>
+	
+	<Modifier Name="GongBeiMing_Esoterica_4" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddV="1"/>
+		</Properties>
+	</Modifier> 
+	
+	
+	<Modifier Name="GongBeiMing_Esoterica_5" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_5</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoRepelResistanceAddV" AddV="1"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongBeiMing_Esoterica_6" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_6</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="12"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongBeiMing_Esoterica_7" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_7</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="12"/>
+		</Properties>
+	</Modifier>
+	
+	<Modifier Name="GongBeiMing_Esoterica_8" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_8</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoRepelDistanceAddV" AddV="2"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongBeiMing_Esoterica_9" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_9</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddV="1"/>
+			<li Name="NpcFight_FabaoTrailingLengthAddP" AddV="5"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongBeiMing_Esoterica_10" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_10</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="6"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongBeiMing_Esoterica_11" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_11</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcLingMaxValue" AddV="50000"/>
+			<li Name="LingAbsorbSpeed" BAddP="1000"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongBeiMing_Esoterica_12" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_12</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<BaseFive>5,5,5,5,5</BaseFive>
+		<Properties>
+		</Properties>
+	</Modifier> 
+
+	<Modifier Name="GongBeiMing_Esoterica_13" Type="Normal">
+		<DisplayName>GongBeiMing_Esoterica_13</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<NoFog>1</NoFog>
+		<BaseFive>2,0,0,0,0</BaseFive>
+	</Modifier>
+	
+	
+</List></ModifierDefs>

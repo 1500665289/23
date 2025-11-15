@@ -1,0 +1,97 @@
+﻿<Esotericas>
+	<List>
+		<Esoterica Name="GongBeiMing_Esoterica_1">
+			<DisplayName>观鱼法</DisplayName>
+			<Icon>res/Sprs/ui/icon_yujian</Icon>
+			<StarLevel>0</StarLevel>
+			<Difficulty>3</Difficulty>
+			<Desc>观鱼之乐可使神念通明。</Desc>
+			<GLevel>Qi</GLevel>
+			<Element>Jin</Element>
+			<Type>Fabao</Type>
+			<EffectDesc>[size=10][color=#D06508]大幅提高心境\n大幅提高悟性\n提高基础情绪[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_Esoterica_1</Modifier>
+		</Esoterica>
+		<Esoterica Name="GongBeiMing_Esoterica_13">
+			<DisplayName>心眼</DisplayName>
+			<Icon>res/Sprs/ui/icon_jichu</Icon>
+			<StarLevel>0</StarLevel>
+			<Difficulty>7</Difficulty>
+			<Desc>以双目沟通星宿之力，大幅提高神识，并可借天星之力照彻四方。</Desc>
+			<GLevel>Qi</GLevel>
+			<Element>Jin</Element>
+			<Type>Gong</Type>
+			<EffectDesc>[size=10][color=#D06508]提高神识2成\n破除地图迷雾(一次)[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_Esoterica_13</Modifier>
+		</Esoterica>
+		<Esoterica Name="GongBeiMing_Esoterica_11">
+			<DisplayName>北冥心法</DisplayName>
+			<Icon>res/Sprs/ui/icon_jichu</Icon>
+			<StarLevel>0</StarLevel>
+			<Difficulty>2</Difficulty>
+			<Desc>北冥神功基础心法。</Desc>
+			<GLevel>Dan1</GLevel>
+			<Element>Jin</Element>
+			<Type>Gong</Type>
+			<EffectDesc>[size=10][color=#D06508]提高灵气最大值\n大幅提高灵气恢复速度[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_Esoterica_11</Modifier>
+		</Esoterica>
+		<Esoterica Name="GongBeiMing_Esoterica_2">
+			<DisplayName>游鱼剑</DisplayName>
+			<Icon>res/Sprs/ui/icon_yujian</Icon>
+			<StarLevel>0</StarLevel>
+			<Difficulty>3</Difficulty>
+			<Desc>观鱼悟剑，取游鱼之灵动。</Desc>
+			<GLevel>Dan1</GLevel>
+			<Element>Jin</Element>
+			<Type>None</Type>
+			<EffectDesc>[size=10][color=#D06508]提高法宝速度\n提高法宝转向速度[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_Esoterica_2</Modifier>
+		</Esoterica>
+
+
+
+		<Esoterica Name="GongBeiMing_Esoterica_6">
+			<DisplayName>北冥剑诀</DisplayName>
+			<Icon>res/Sprs/ui/icon_yujian</Icon>
+			<StarLevel>1</StarLevel>
+			<Difficulty>5</Difficulty>
+			<Desc></Desc>
+			<GLevel>Dan2</GLevel>
+			<Element>Jin</Element>
+			<Type>Fabao</Type>
+			<EffectDesc>[size=10][color=#D06508]提高法宝灵气值[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_Esoterica_6</Modifier>
+		</Esoterica>
+
+		<Esoterica Name="GongBeiMing_Esoterica_10">
+			<DisplayName>北冥悟剑-入海诀</DisplayName>
+			<Icon>res/Sprs/ui/icon_yujian</Icon>
+			<StarLevel>2</StarLevel>
+			<Difficulty>9</Difficulty>
+			<Desc>北冥神功最高秘诀，威力绝伦。</Desc>
+			<GLevel>God</GLevel>
+			<Element>Jin</Element>
+			<Type>Fabao</Type>
+			<EffectDesc>[size=10][color=#D06508]提高法宝威力\n[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_Esoterica_10</Modifier>
+		</Esoterica>
+
+		
+
+		<Esoterica Name="GongBeiMing_Esoterica_12">
+			<DisplayName>化鹏诀</DisplayName>
+			<Icon>res/Sprs/ui/icon_jichu</Icon>
+			<StarLevel>2</StarLevel>
+			<Difficulty>7</Difficulty>
+			<Desc>如鲲之化鹏，全面提升五维。</Desc>
+			<GLevel>Dan2</GLevel>
+			<Element>Jin</Element>
+			<Type>Gong</Type>
+			<EffectDesc>[size=10][color=#D06508]大幅提高五维[/color][/size]</EffectDesc>
+			<Modifier>GongBeiMing_Esoterica_12</Modifier>
+		</Esoterica>
+
+
+	</List>
+</Esotericas>
